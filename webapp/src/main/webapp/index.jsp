@@ -21,6 +21,10 @@
     <input type="text" placeholder="Enter Daughter Name" name="daughter" id="daughter" required>
     <br>
 
+    <label for="cousin"><b>Cousin Name</b></label>
+    <input type="text" placeholder="Enter Cousin Name" name="cousin" id="cousin" required>
+    <br>
+
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
