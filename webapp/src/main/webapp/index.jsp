@@ -45,6 +45,9 @@
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
+
+    <h1>This is complete CI-CD DevOps Pipeline project by Mr. Chiru</h1>
+
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
