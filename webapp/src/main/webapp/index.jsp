@@ -33,6 +33,10 @@
     <input type="text" placeholder="Enter Sister  Name" name="sister" id="sister" required>
     <br>
 
+    <label for="big sis"><b>Big Sister Name</b></label>
+    <input type="text" placeholder="Enter Big Sister  Name" name="big sis" id="big sis" required>
+    <br>
+
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
