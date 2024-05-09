@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Please Register</h1>
+    <h1>Register</h1>
     <p>Please fill in this form</p>
     <hr>
     <br>
@@ -9,44 +9,9 @@
     <input type="text" placeholder="Enter Name" name="name" id="name" required>
     <br>
 
-    <label for="aadaar"><b>Aadhaar Name</b></label>
-    <input type="text" placeholder="Enter Aadhar Name" name="aadaar" id="aadaar" required>
-    <br>
-
-    <label for="son"><b>Son Name</b></label>
-    <input type="text" placeholder="Enter Son Name" name="son" id="son" required>
-    <br>
-
-    <label for="daughter"><b>Daughter Name</b></label>
-    <input type="text" placeholder="Enter Daughter Name" name="daughter" id="daughter" required>
-    <br>
-    
-    <label for="mother"><b>Mother Name</b></label>
-    <input type="text" placeholder="Enter Mother Name" name="mother" id="mother" required>
-    <br>
-
-    <label for="cousin"><b>Cousin Name</b></label>
-    <input type="text" placeholder="Enter Cousin Name" name="cousin" id="cousin" required>
-    <br>
-
-    <label for="brother"><b>Brother Name</b></label>
-    <input type="text" placeholder="Enter Brother Name" name="brother" id="brother" required>
-    <br>
-
-    <label for="sister"><b>Sister Name</b></label>
-    <input type="text" placeholder="Enter Sister  Name" name="sister" id="sister" required>
-    <br>
-
-    <label for="big sis"><b>Big Sister Name</b></label>
-    <input type="text" placeholder="Enter Big Sister  Name" name="big sis" id="big sis" required>
-    <br>
-
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
-
-
-    <h1>This is complete CI-CD DevOps Pipeline project by Mr. Chiru</h1>
 
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
