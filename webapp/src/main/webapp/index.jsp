@@ -20,6 +20,10 @@
     <label for="daughter"><b>Daughter Name</b></label>
     <input type="text" placeholder="Enter Daughter Name" name="daughter" id="daughter" required>
     <br>
+    
+    <label for="mother"><b>Mother Name</b></label>
+    <input type="text" placeholder="Enter Mother Name" name="mother" id="mother" required>
+    <br>
 
     <label for="cousin"><b>Cousin Name</b></label>
     <input type="text" placeholder="Enter Cousin Name" name="cousin" id="cousin" required>
